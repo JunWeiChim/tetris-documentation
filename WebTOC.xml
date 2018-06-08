@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="2ee44080-8428-4e9a-bb74-d07ced255f75" Title="tetris Namespace" Url="html/N-tetris.htm">
+    <HelpTOCNode Id="38f1bb6c-97dc-4114-a988-cf624ed31fd2" Title="Game Class" Url="html/T-tetris.Game.htm">
+      <HelpTOCNode Title="Game Members" Url="html/AllMembers.T-tetris.Game.htm" />
+      <HelpTOCNode Title="Game Constructor " Url="html/M-tetris.Game.-ctor.htm" />
+      <HelpTOCNode Id="cb9a7418-ed98-47fe-b4c0-8f3610cd02d3" Title="Game Methods" Url="html/Methods.T-tetris.Game.htm">
+        <HelpTOCNode Title="Collide Method " Url="html/M-tetris.Game.Collide.htm" />
+        <HelpTOCNode Title="DrawPiece Method " Url="html/M-tetris.Game.DrawPiece.htm" />
+        <HelpTOCNode Title="DrawSaveToArena Method " Url="html/M-tetris.Game.DrawSaveToArena.htm" />
+        <HelpTOCNode Title="Drop Method " Url="html/M-tetris.Game.Drop.htm" />
+        <HelpTOCNode Title="GetPlayer Method " Url="html/M-tetris.Game.GetPlayer.htm" />
+        <HelpTOCNode Title="GetSave Method " Url="html/M-tetris.Game.GetSave.htm" />
+        <HelpTOCNode Title="Merge Method " Url="html/M-tetris.Game.Merge.htm" />
+        <HelpTOCNode Title="MoveLeft Method " Url="html/M-tetris.Game.MoveLeft.htm" />
+        <HelpTOCNode Title="MoveRight Method " Url="html/M-tetris.Game.MoveRight.htm" />
+        <HelpTOCNode Title="Render Method " Url="html/M-tetris.Game.Render.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M-tetris.Game.Start.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-tetris.Game.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9270521-0e5d-4caa-bb14-d63bd490959c" Title="IPiece Class" Url="html/T-tetris.IPiece.htm">
+      <HelpTOCNode Title="IPiece Members" Url="html/AllMembers.T-tetris.IPiece.htm" />
+      <HelpTOCNode Title="IPiece Constructor " Url="html/M-tetris.IPiece.-ctor.htm" />
+      <HelpTOCNode Title="IPiece Methods" Url="html/Methods.T-tetris.IPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="730dc555-2c5f-4816-8240-d9b96e2bec7f" Title="JPiece Class" Url="html/T-tetris.JPiece.htm">
+      <HelpTOCNode Title="JPiece Members" Url="html/AllMembers.T-tetris.JPiece.htm" />
+      <HelpTOCNode Title="JPiece Constructor " Url="html/M-tetris.JPiece.-ctor.htm" />
+      <HelpTOCNode Title="JPiece Methods" Url="html/Methods.T-tetris.JPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="91710514-4dbd-4f54-b97b-e25054351f4a" Title="LPiece Class" Url="html/T-tetris.LPiece.htm">
+      <HelpTOCNode Title="LPiece Members" Url="html/AllMembers.T-tetris.LPiece.htm" />
+      <HelpTOCNode Title="LPiece Constructor " Url="html/M-tetris.LPiece.-ctor.htm" />
+      <HelpTOCNode Title="LPiece Methods" Url="html/Methods.T-tetris.LPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="61fbc05d-ebe6-46d8-9d86-98e724c6212b" Title="Matrix Class" Url="html/T-tetris.Matrix.htm">
+      <HelpTOCNode Title="Matrix Members" Url="html/AllMembers.T-tetris.Matrix.htm" />
+      <HelpTOCNode Id="b447e30b-d91a-46db-ab2f-56faa76476cd" Title="Matrix Methods" Url="html/Methods.T-tetris.Matrix.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M-tetris.Matrix.Create.htm" />
+        <HelpTOCNode Title="Draw Method " Url="html/M-tetris.Matrix.Draw.htm" />
+        <HelpTOCNode Title="Fill Method " Url="html/M-tetris.Matrix.Fill.htm" />
+        <HelpTOCNode Id="c2518e4f-f028-4054-a732-faf374021998" Title="Get Method " Url="html/Overload-tetris.Matrix.Get.htm">
+          <HelpTOCNode Title="Get Method (Int32, Int32)" Url="html/M-tetris.Matrix.Get.htm" />
+          <HelpTOCNode Title="Get Method (Int32)" Url="html/M-tetris.Matrix.Get_1.htm" />
+          <HelpTOCNode Title="Get Method " Url="html/M-tetris.Matrix.Get_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetLastIndex Method " Url="html/M-tetris.Matrix.GetLastIndex.htm" />
+        <HelpTOCNode Title="GetLength Method " Url="html/M-tetris.Matrix.GetLength.htm" />
+        <HelpTOCNode Title="Print Method " Url="html/M-tetris.Matrix.Print.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="08dc65ad-ee20-4003-8c6e-cd1cb31d7cef" Title="OPiece Class" Url="html/T-tetris.OPiece.htm">
+      <HelpTOCNode Title="OPiece Members" Url="html/AllMembers.T-tetris.OPiece.htm" />
+      <HelpTOCNode Title="OPiece Constructor " Url="html/M-tetris.OPiece.-ctor.htm" />
+      <HelpTOCNode Title="OPiece Methods" Url="html/Methods.T-tetris.OPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0ffebee2-6fe6-42ea-9521-f8f1c7cf656b" Title="Piece Class" Url="html/T-tetris.Piece.htm">
+      <HelpTOCNode Title="Piece Members" Url="html/AllMembers.T-tetris.Piece.htm" />
+      <HelpTOCNode Id="4f88aa1a-3c63-45fa-92d6-e41a1dfd81dc" Title="Piece Methods" Url="html/Methods.T-tetris.Piece.htm">
+        <HelpTOCNode Title="Get Method " Url="html/M-tetris.Piece.Get.htm" />
+        <HelpTOCNode Title="GetLastEmpty Method " Url="html/M-tetris.Piece.GetLastEmpty.htm" />
+        <HelpTOCNode Title="GetName Method " Url="html/M-tetris.Piece.GetName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cc460772-93e5-49b9-a41a-b5b746665a34" Title="PieceFactory Class" Url="html/T-tetris.PieceFactory.htm">
+      <HelpTOCNode Title="PieceFactory Members" Url="html/AllMembers.T-tetris.PieceFactory.htm" />
+      <HelpTOCNode Id="67210205-c614-4b70-8753-bffa568a160f" Title="PieceFactory Methods" Url="html/Methods.T-tetris.PieceFactory.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M-tetris.PieceFactory.Create.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="820b9741-ff69-43e6-b297-88af26238936" Title="Player Class" Url="html/T-tetris.Player.htm">
+      <HelpTOCNode Title="Player Members" Url="html/AllMembers.T-tetris.Player.htm" />
+      <HelpTOCNode Title="Player Constructor " Url="html/M-tetris.Player.-ctor.htm" />
+      <HelpTOCNode Id="e213c48b-df79-4b0d-84b0-8cbf00681e47" Title="Player Methods" Url="html/Methods.T-tetris.Player.htm">
+        <HelpTOCNode Title="GetPiece Method " Url="html/M-tetris.Player.GetPiece.htm" />
+        <HelpTOCNode Title="GetPieceType Method " Url="html/M-tetris.Player.GetPieceType.htm" />
+        <HelpTOCNode Title="GetScore Method " Url="html/M-tetris.Player.GetScore.htm" />
+        <HelpTOCNode Title="GetShape Method " Url="html/M-tetris.Player.GetShape.htm" />
+        <HelpTOCNode Title="GetX Method " Url="html/M-tetris.Player.GetX.htm" />
+        <HelpTOCNode Title="GetY Method " Url="html/M-tetris.Player.GetY.htm" />
+        <HelpTOCNode Title="MoveX Method " Url="html/M-tetris.Player.MoveX.htm" />
+        <HelpTOCNode Title="MoveY Method " Url="html/M-tetris.Player.MoveY.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M-tetris.Player.Reset.htm" />
+        <HelpTOCNode Title="SetPiece Method " Url="html/M-tetris.Player.SetPiece.htm" />
+        <HelpTOCNode Title="SetX Method " Url="html/M-tetris.Player.SetX.htm" />
+        <HelpTOCNode Title="SetY Method " Url="html/M-tetris.Player.SetY.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c649ca3-8fc3-4aa3-9e0b-257b167955fb" Title="SPiece Class" Url="html/T-tetris.SPiece.htm">
+      <HelpTOCNode Title="SPiece Members" Url="html/AllMembers.T-tetris.SPiece.htm" />
+      <HelpTOCNode Title="SPiece Constructor " Url="html/M-tetris.SPiece.-ctor.htm" />
+      <HelpTOCNode Title="SPiece Methods" Url="html/Methods.T-tetris.SPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="43dd20be-8093-41cb-aefa-e97813cac064" Title="TPiece Class" Url="html/T-tetris.TPiece.htm">
+      <HelpTOCNode Title="TPiece Members" Url="html/AllMembers.T-tetris.TPiece.htm" />
+      <HelpTOCNode Title="TPiece Constructor " Url="html/M-tetris.TPiece.-ctor.htm" />
+      <HelpTOCNode Title="TPiece Methods" Url="html/Methods.T-tetris.TPiece.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f83a97b6-b30a-4acd-8ec3-f8546b7f7a87" Title="ZPiece Class" Url="html/T-tetris.ZPiece.htm">
+      <HelpTOCNode Title="ZPiece Members" Url="html/AllMembers.T-tetris.ZPiece.htm" />
+      <HelpTOCNode Title="ZPiece Constructor " Url="html/M-tetris.ZPiece.-ctor.htm" />
+      <HelpTOCNode Title="ZPiece Methods" Url="html/Methods.T-tetris.ZPiece.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

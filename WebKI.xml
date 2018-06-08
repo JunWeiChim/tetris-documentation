@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Collide method" Url="html/M-tetris.Game.Collide.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="Create Method " Url="html/M-tetris.PieceFactory.Create.htm" />
+    <HelpKINode Title="Create Method " Url="html/M-tetris.Matrix.Create.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Draw method" Url="html/M-tetris.Matrix.Draw.htm" />
+  <HelpKINode Title="DrawPiece method" Url="html/M-tetris.Game.DrawPiece.htm" />
+  <HelpKINode Title="DrawSaveToArena method" Url="html/M-tetris.Game.DrawSaveToArena.htm" />
+  <HelpKINode Title="Drop method" Url="html/M-tetris.Game.Drop.htm" />
+  <HelpKINode Title="Fill method" Url="html/M-tetris.Matrix.Fill.htm" />
+  <HelpKINode Title="Game class">
+    <HelpKINode Title="Game Class" Url="html/T-tetris.Game.htm" />
+    <HelpKINode Title="Game Members" Url="html/AllMembers.T-tetris.Game.htm" />
+    <HelpKINode Title="about Game class" Url="html/T-tetris.Game.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.Game.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.Game.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.Game.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game.Collide method" Url="html/M-tetris.Game.Collide.htm" />
+  <HelpKINode Title="Game.DrawPiece method" Url="html/M-tetris.Game.DrawPiece.htm" />
+  <HelpKINode Title="Game.DrawSaveToArena method" Url="html/M-tetris.Game.DrawSaveToArena.htm" />
+  <HelpKINode Title="Game.Drop method" Url="html/M-tetris.Game.Drop.htm" />
+  <HelpKINode Title="Game.Game constructor" Url="html/M-tetris.Game.-ctor.htm" />
+  <HelpKINode Title="Game.GetPlayer method" Url="html/M-tetris.Game.GetPlayer.htm" />
+  <HelpKINode Title="Game.GetSave method" Url="html/M-tetris.Game.GetSave.htm" />
+  <HelpKINode Title="Game.Merge method" Url="html/M-tetris.Game.Merge.htm" />
+  <HelpKINode Title="Game.MoveLeft method" Url="html/M-tetris.Game.MoveLeft.htm" />
+  <HelpKINode Title="Game.MoveRight method" Url="html/M-tetris.Game.MoveRight.htm" />
+  <HelpKINode Title="Game.Render method" Url="html/M-tetris.Game.Render.htm" />
+  <HelpKINode Title="Game.Start method" Url="html/M-tetris.Game.Start.htm" />
+  <HelpKINode Title="Game.Update method" Url="html/M-tetris.Game.Update.htm" />
+  <HelpKINode Title="Get method">
+    <HelpKINode Title="Get Method " Url="html/Overload-tetris.Matrix.Get.htm" />
+    <HelpKINode Title="Get Method " Url="html/M-tetris.Piece.Get.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetLastEmpty method" Url="html/M-tetris.Piece.GetLastEmpty.htm" />
+  <HelpKINode Title="GetLastIndex method" Url="html/M-tetris.Matrix.GetLastIndex.htm" />
+  <HelpKINode Title="GetLength method" Url="html/M-tetris.Matrix.GetLength.htm" />
+  <HelpKINode Title="GetName method" Url="html/M-tetris.Piece.GetName.htm" />
+  <HelpKINode Title="GetPiece method" Url="html/M-tetris.Player.GetPiece.htm" />
+  <HelpKINode Title="GetPieceType method" Url="html/M-tetris.Player.GetPieceType.htm" />
+  <HelpKINode Title="GetPlayer method" Url="html/M-tetris.Game.GetPlayer.htm" />
+  <HelpKINode Title="GetSave method" Url="html/M-tetris.Game.GetSave.htm" />
+  <HelpKINode Title="GetScore method" Url="html/M-tetris.Player.GetScore.htm" />
+  <HelpKINode Title="GetShape method" Url="html/M-tetris.Player.GetShape.htm" />
+  <HelpKINode Title="GetX method" Url="html/M-tetris.Player.GetX.htm" />
+  <HelpKINode Title="GetY method" Url="html/M-tetris.Player.GetY.htm" />
+  <HelpKINode Title="IPiece class">
+    <HelpKINode Title="IPiece Class" Url="html/T-tetris.IPiece.htm" />
+    <HelpKINode Title="IPiece Members" Url="html/AllMembers.T-tetris.IPiece.htm" />
+    <HelpKINode Title="about IPiece class" Url="html/T-tetris.IPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.IPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.IPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.IPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPiece.IPiece constructor" Url="html/M-tetris.IPiece.-ctor.htm" />
+  <HelpKINode Title="JPiece class">
+    <HelpKINode Title="JPiece Class" Url="html/T-tetris.JPiece.htm" />
+    <HelpKINode Title="JPiece Members" Url="html/AllMembers.T-tetris.JPiece.htm" />
+    <HelpKINode Title="about JPiece class" Url="html/T-tetris.JPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.JPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.JPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.JPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JPiece.JPiece constructor" Url="html/M-tetris.JPiece.-ctor.htm" />
+  <HelpKINode Title="LPiece class">
+    <HelpKINode Title="LPiece Class" Url="html/T-tetris.LPiece.htm" />
+    <HelpKINode Title="LPiece Members" Url="html/AllMembers.T-tetris.LPiece.htm" />
+    <HelpKINode Title="about LPiece class" Url="html/T-tetris.LPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.LPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.LPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.LPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LPiece.LPiece constructor" Url="html/M-tetris.LPiece.-ctor.htm" />
+  <HelpKINode Title="Matrix class">
+    <HelpKINode Title="Matrix Class" Url="html/T-tetris.Matrix.htm" />
+    <HelpKINode Title="Matrix Members" Url="html/AllMembers.T-tetris.Matrix.htm" />
+    <HelpKINode Title="about Matrix class" Url="html/T-tetris.Matrix.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.Matrix.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.Matrix.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Matrix.Create method" Url="html/M-tetris.Matrix.Create.htm" />
+  <HelpKINode Title="Matrix.Draw method" Url="html/M-tetris.Matrix.Draw.htm" />
+  <HelpKINode Title="Matrix.Fill method" Url="html/M-tetris.Matrix.Fill.htm" />
+  <HelpKINode Title="Matrix.Get method" Url="html/Overload-tetris.Matrix.Get.htm" />
+  <HelpKINode Title="Matrix.GetLastIndex method" Url="html/M-tetris.Matrix.GetLastIndex.htm" />
+  <HelpKINode Title="Matrix.GetLength method" Url="html/M-tetris.Matrix.GetLength.htm" />
+  <HelpKINode Title="Matrix.Print method" Url="html/M-tetris.Matrix.Print.htm" />
+  <HelpKINode Title="Merge method" Url="html/M-tetris.Game.Merge.htm" />
+  <HelpKINode Title="MoveLeft method" Url="html/M-tetris.Game.MoveLeft.htm" />
+  <HelpKINode Title="MoveRight method" Url="html/M-tetris.Game.MoveRight.htm" />
+  <HelpKINode Title="MoveX method" Url="html/M-tetris.Player.MoveX.htm" />
+  <HelpKINode Title="MoveY method" Url="html/M-tetris.Player.MoveY.htm" />
+  <HelpKINode Title="OPiece class">
+    <HelpKINode Title="OPiece Class" Url="html/T-tetris.OPiece.htm" />
+    <HelpKINode Title="OPiece Members" Url="html/AllMembers.T-tetris.OPiece.htm" />
+    <HelpKINode Title="about OPiece class" Url="html/T-tetris.OPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.OPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.OPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.OPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OPiece.OPiece constructor" Url="html/M-tetris.OPiece.-ctor.htm" />
+  <HelpKINode Title="Piece class">
+    <HelpKINode Title="Piece Class" Url="html/T-tetris.Piece.htm" />
+    <HelpKINode Title="Piece Members" Url="html/AllMembers.T-tetris.Piece.htm" />
+    <HelpKINode Title="about Piece class" Url="html/T-tetris.Piece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.Piece.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.Piece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Piece.Get method" Url="html/M-tetris.Piece.Get.htm" />
+  <HelpKINode Title="Piece.GetLastEmpty method" Url="html/M-tetris.Piece.GetLastEmpty.htm" />
+  <HelpKINode Title="Piece.GetName method" Url="html/M-tetris.Piece.GetName.htm" />
+  <HelpKINode Title="PieceFactory class">
+    <HelpKINode Title="PieceFactory Class" Url="html/T-tetris.PieceFactory.htm" />
+    <HelpKINode Title="PieceFactory Members" Url="html/AllMembers.T-tetris.PieceFactory.htm" />
+    <HelpKINode Title="about PieceFactory class" Url="html/T-tetris.PieceFactory.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.PieceFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.PieceFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PieceFactory.Create method" Url="html/M-tetris.PieceFactory.Create.htm" />
+  <HelpKINode Title="Player class">
+    <HelpKINode Title="Player Class" Url="html/T-tetris.Player.htm" />
+    <HelpKINode Title="Player Members" Url="html/AllMembers.T-tetris.Player.htm" />
+    <HelpKINode Title="about Player class" Url="html/T-tetris.Player.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.Player.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.Player.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.Player.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Player.GetPiece method" Url="html/M-tetris.Player.GetPiece.htm" />
+  <HelpKINode Title="Player.GetPieceType method" Url="html/M-tetris.Player.GetPieceType.htm" />
+  <HelpKINode Title="Player.GetScore method" Url="html/M-tetris.Player.GetScore.htm" />
+  <HelpKINode Title="Player.GetShape method" Url="html/M-tetris.Player.GetShape.htm" />
+  <HelpKINode Title="Player.GetX method" Url="html/M-tetris.Player.GetX.htm" />
+  <HelpKINode Title="Player.GetY method" Url="html/M-tetris.Player.GetY.htm" />
+  <HelpKINode Title="Player.MoveX method" Url="html/M-tetris.Player.MoveX.htm" />
+  <HelpKINode Title="Player.MoveY method" Url="html/M-tetris.Player.MoveY.htm" />
+  <HelpKINode Title="Player.Player constructor" Url="html/M-tetris.Player.-ctor.htm" />
+  <HelpKINode Title="Player.Reset method" Url="html/M-tetris.Player.Reset.htm" />
+  <HelpKINode Title="Player.SetPiece method" Url="html/M-tetris.Player.SetPiece.htm" />
+  <HelpKINode Title="Player.SetX method" Url="html/M-tetris.Player.SetX.htm" />
+  <HelpKINode Title="Player.SetY method" Url="html/M-tetris.Player.SetY.htm" />
+  <HelpKINode Title="Print method" Url="html/M-tetris.Matrix.Print.htm" />
+  <HelpKINode Title="Render method" Url="html/M-tetris.Game.Render.htm" />
+  <HelpKINode Title="Reset method" Url="html/M-tetris.Player.Reset.htm" />
+  <HelpKINode Title="SetPiece method" Url="html/M-tetris.Player.SetPiece.htm" />
+  <HelpKINode Title="SetX method" Url="html/M-tetris.Player.SetX.htm" />
+  <HelpKINode Title="SetY method" Url="html/M-tetris.Player.SetY.htm" />
+  <HelpKINode Title="SPiece class">
+    <HelpKINode Title="SPiece Class" Url="html/T-tetris.SPiece.htm" />
+    <HelpKINode Title="SPiece Members" Url="html/AllMembers.T-tetris.SPiece.htm" />
+    <HelpKINode Title="about SPiece class" Url="html/T-tetris.SPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.SPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.SPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.SPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SPiece.SPiece constructor" Url="html/M-tetris.SPiece.-ctor.htm" />
+  <HelpKINode Title="Start method" Url="html/M-tetris.Game.Start.htm" />
+  <HelpKINode Title="tetris namespace" Url="html/N-tetris.htm" />
+  <HelpKINode Title="tetris.Game class">
+    <HelpKINode Title="Game Class" Url="html/T-tetris.Game.htm" />
+    <HelpKINode Title="Game Members" Url="html/AllMembers.T-tetris.Game.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.IPiece class">
+    <HelpKINode Title="IPiece Class" Url="html/T-tetris.IPiece.htm" />
+    <HelpKINode Title="IPiece Members" Url="html/AllMembers.T-tetris.IPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.JPiece class">
+    <HelpKINode Title="JPiece Class" Url="html/T-tetris.JPiece.htm" />
+    <HelpKINode Title="JPiece Members" Url="html/AllMembers.T-tetris.JPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.LPiece class">
+    <HelpKINode Title="LPiece Class" Url="html/T-tetris.LPiece.htm" />
+    <HelpKINode Title="LPiece Members" Url="html/AllMembers.T-tetris.LPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.Matrix class">
+    <HelpKINode Title="Matrix Class" Url="html/T-tetris.Matrix.htm" />
+    <HelpKINode Title="Matrix Members" Url="html/AllMembers.T-tetris.Matrix.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.OPiece class">
+    <HelpKINode Title="OPiece Class" Url="html/T-tetris.OPiece.htm" />
+    <HelpKINode Title="OPiece Members" Url="html/AllMembers.T-tetris.OPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.Piece class">
+    <HelpKINode Title="Piece Class" Url="html/T-tetris.Piece.htm" />
+    <HelpKINode Title="Piece Members" Url="html/AllMembers.T-tetris.Piece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.PieceFactory class">
+    <HelpKINode Title="PieceFactory Class" Url="html/T-tetris.PieceFactory.htm" />
+    <HelpKINode Title="PieceFactory Members" Url="html/AllMembers.T-tetris.PieceFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.Player class">
+    <HelpKINode Title="Player Class" Url="html/T-tetris.Player.htm" />
+    <HelpKINode Title="Player Members" Url="html/AllMembers.T-tetris.Player.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.SPiece class">
+    <HelpKINode Title="SPiece Class" Url="html/T-tetris.SPiece.htm" />
+    <HelpKINode Title="SPiece Members" Url="html/AllMembers.T-tetris.SPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.TPiece class">
+    <HelpKINode Title="TPiece Class" Url="html/T-tetris.TPiece.htm" />
+    <HelpKINode Title="TPiece Members" Url="html/AllMembers.T-tetris.TPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tetris.ZPiece class">
+    <HelpKINode Title="ZPiece Class" Url="html/T-tetris.ZPiece.htm" />
+    <HelpKINode Title="ZPiece Members" Url="html/AllMembers.T-tetris.ZPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TPiece class">
+    <HelpKINode Title="TPiece Class" Url="html/T-tetris.TPiece.htm" />
+    <HelpKINode Title="TPiece Members" Url="html/AllMembers.T-tetris.TPiece.htm" />
+    <HelpKINode Title="about TPiece class" Url="html/T-tetris.TPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.TPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.TPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.TPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TPiece.TPiece constructor" Url="html/M-tetris.TPiece.-ctor.htm" />
+  <HelpKINode Title="Update method" Url="html/M-tetris.Game.Update.htm" />
+  <HelpKINode Title="ZPiece class">
+    <HelpKINode Title="ZPiece Class" Url="html/T-tetris.ZPiece.htm" />
+    <HelpKINode Title="ZPiece Members" Url="html/AllMembers.T-tetris.ZPiece.htm" />
+    <HelpKINode Title="about ZPiece class" Url="html/T-tetris.ZPiece.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-tetris.ZPiece.htm" />
+    <HelpKINode Title="constructor" Url="html/M-tetris.ZPiece.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-tetris.ZPiece.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZPiece.ZPiece constructor" Url="html/M-tetris.ZPiece.-ctor.htm" />
+</HelpKI>
